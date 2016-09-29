@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="button_true_text">True</string>
+    <string name="button_false_text">True</string>
+    <string name="question_cats">Cats eat fish</string>
+    <string name="toast_correct">True</string>
+    <string name="question_text">True</string>
+    <string name="question_bird">Most birds can fly</string>
+    <string name="question_bear">Bears love salmon</string>
+    <string name="question_food">Jane loves food</string>
+    <string name="question_rain">We have lots of rain in L.A.</string>
+    <string name="button_cheat">cheat</string>
+</resources>
